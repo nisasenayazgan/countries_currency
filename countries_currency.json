@@ -247,7 +247,7 @@
 	{
 		'name':'Hungary'
 		'code':'HU'
-		Abbreviation: HUF'
+		'currency_code': 'HUF'
 		'currency_symbol':'Ft'
 		'currency_prefix':'False
 	},
@@ -407,7 +407,7 @@
 		'currency_prefix':'False	
 	},
 	{
-		'name':'Democratic People's Republic of Korea'
+		'name':'Democratic Peoples Republic of Korea'
 		'code':'KP'
 		'currency_code':'KPW'
 		'currency_symbol':'‎₩'
