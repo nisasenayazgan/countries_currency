@@ -5,7 +5,7 @@
 		'currency_code':'ARS'
 		'currency_symbol':'$'
 		'currency_prefix':'True
-},
+	},
 	{
 		'name':'Australia'
 		'code':'AUS'
